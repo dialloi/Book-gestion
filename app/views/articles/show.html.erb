@@ -1,0 +1,11 @@
+<p>
+  <strong>Livres</strong>
+  <%= @article.title %>
+</p>
+ 
+<p>
+  <strong>Commentaires</strong>
+  <%= @article.text %>
+</p>
+<%= link_to 'Edit', edit_article_path(@article) %> |
+<%= link_to 'Back', articles_path %>

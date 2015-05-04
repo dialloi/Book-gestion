@@ -1,0 +1,13 @@
+== README
+
+Pour compiler en local : 
+
+Aller dans dossier courant : cd blog 
+
+puis lancer le serveur par :   rails server 
+
+puis ouvrer le naviguateur : localhost:3000
+Puis surfer sur l'application. 
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
